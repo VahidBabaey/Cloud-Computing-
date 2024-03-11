@@ -1,4 +1,4 @@
-module github.com/VahidBabaey/CloudComputing
+module github.com/VahidBabaey/CloudComputing/lab6
 
 go 1.22.1
 

@@ -127,7 +127,6 @@ func RunCLI() {
     }
     
     conditions, err := Get(location, key)
-    fmt.Printf(key)
     fmt.Printf("Weather in %s: %s %.1fºF\n", location, conditions.Summary, conditions.Temperature.Fahrenheit())
     fmt.Printf("Pressure: %dhPa\n", conditions.Pressure)
     fmt.Printf("Humidity: %d%%\n", conditions.Humidity)

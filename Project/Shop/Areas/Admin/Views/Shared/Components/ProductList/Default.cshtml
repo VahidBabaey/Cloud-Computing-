@@ -1,0 +1,126 @@
+﻿@model Models.ProductListModel
+
+
+<div id="DivListProducts">
+    <caption-view asp-title="Product List "></caption-view>
+    <div class="form-inline">
+        <label asp-for="SearchName"></label>
+        <input class="form-control" asp-for="SearchName">
+        <label asp-for="CategoryId"></label>
+        <select class="form-control" asp-items="@Model.Categories" asp-for="CategoryId"></select>
+        <button type="button" onclick="ShowProducts()" class="btn btn-primary">Search</button>
+    </div>
+
+    <a href="~/Areas/Admin/Views/Home/About.cshtml">~/Areas/Admin/Views/Home/About.cshtml</a>
+    <br />
+    <table class="table text-center table-bordered table-hover">
+        <thead>
+            <tr>
+                <td>#</td>
+                <td>Title</td>
+                <td>Category</td>
+                <td>Price</td>
+                <td>Old Price</td>
+                <td>Published</td>
+                <td>Published Date</td>
+                <td>SKU</td>
+            </tr>
+        </thead>
+        <tbody id="ListProductViewComponent"></tbody>
+    </table>
+
+
+</div>
+
+
+
+    <script>
+
+       
+
+        window.onload = load;
+        function load() {
+            ShowProducts();
+
+        }
+        function ShowProducts() {
+            AJX.get("/Admin/Product/GetProducts", { "SearchName": SearchName.value, "CategoryId": CategoryId.value}, function (_list) {
+                var str = "";
+                for (var i in _list) {
+                    str += '<tr data-id="' + _list[i].id + '">';
+                    str += '<td><input type="checkbox"/></td>';
+                    str += '<td>' + _list[i]["name"] + '</td>';
+                    str += '<td>' + _list[i].categoryName + '</td>';
+                    str += '<td class="price">' + _list[i].price + '</td>';
+                    str += '<td>' + _list[i].oldPrice + '</td>';
+                    if (_list[i].published)
+                        str += '<td>Published</td>';
+                    else
+                        str += '<td>non-Published </td>';
+
+                    str += '<td>' + _list[i].publishDate + '</td>';
+                    str += '<td>' + _list[i].sku + '</td>';
+                 
+                    str += '</tr>';
+                }
+
+                document.getElementById("ListProductViewComponent").innerHTML = str;
+             
+
+
+             },"json");
+
+
+        }
+
+        var ProductListManager = function () { 
+
+            this.listSelectedProductsId = [];
+
+            this.getSeletedProductsId = function () { 
+
+                var _listCheckBox = document.querySelectorAll("#ListProductViewComponent tr td input[type='checkbox']");
+                this.listSelectedProductsId = [];
+                for (var i = 0; i < _listCheckBox.length; i++) {
+                    if (_listCheckBox[i].checked) {
+                        var id = _listCheckBox[i].parentNode.parentNode.getAttribute("data-id");
+                        this.listSelectedProductsId.push(id);
+                    }
+                }
+
+                return this.listSelectedProductsId;
+
+            }
+
+
+            this.setSeletedProductsId = function (listId) { 
+
+                var _listCheckBox = document.querySelectorAll("#ListProductViewComponent tr td input[type='checkbox']");
+                for (var i = 0; i < _listCheckBox.length; i++) {
+                    var id = _listCheckBox[i].parentNode.parentNode.getAttribute("data-id").trim();
+                    _listCheckBox[i].checked = false;
+                    for (var j in listId) {
+
+                        if (listId[j].trim() == id) {
+                            _listCheckBox[i].checked = true;
+                        }
+                    }
+                            
+                    if (_listCheckBox[i].checked) {
+                      
+                        this.listSelectedProductsId.push(id);
+                    }
+                }
+            };
+
+            this.load = function () { 
+                ShowProducts();
+            }
+        };
+
+
+       
+    
+    </script>
+
+

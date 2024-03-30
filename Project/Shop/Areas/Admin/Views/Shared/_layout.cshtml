@@ -1,0 +1,34 @@
+﻿
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_layout.Head.cshtml";
+}
+
+
+@section Head
+    {
+    @RenderSection("ViewScript", false);
+}
+<div class="container-fluid">
+    <div class="row fixed-top bg-info" style="height:50px;">
+        <div class="col-2 text-center ">
+            <nav class="navbar navbar-dark">
+                <a class="navbar-brand mb-0 h1" href="#"><img src="~/Images/store-icon.png" /><span>Shop Management</span></a>
+            </nav>
+        </div>
+        <div class="col-10"></div>
+    </div>
+    <div class="row" style="margin-top:48px;">
+
+      @await  Component.InvokeAsync("AdminMenu")
+
+        <div class="col-sm-7 col-md-8 col-xl-10" style="margin-top:10px;">
+            @RenderBody()
+        </div>
+    </div>
+
+</div>
+<img src="~/Images/Loading.gif" style="width:50px;height:50px;position:fixed;display:none;" id="imgLoading" />
+<script>
+        imgLoading.style.top =(window.innerHeight / 2)+"px";
+        imgLoading.style.left = ((window.innerWidth + window.screenX+50)/3)+"px";
+</script>

@@ -1,0 +1,122 @@
+﻿@model Models.ProductCategoryModel
+@{
+    Layout = "~/Views/Shared/_ColumnTwo.cshtml";
+}
+
+
+<div class="container-fluid p-4">
+    <div id="divProduct">
+        <h4>Products @Model.CategoryName</h4>
+        <hr />
+        <div class="row">
+            @foreach (var product in Model.Prodcuts)
+            {
+                <div class="col-sm-3 p-1">
+                    @Html.Partial("_PictureBox", product)
+                </div>
+            }
+        </div>
+    </div>
+
+</div>
+
+
+@section left
+    {
+
+    <div class="form-group">
+        <label asp-for="fromPrice">From Price:</label>
+        <input class="form-control" id="fromPrice" type="number">
+    </div>
+    <div class="form-group">
+        <label asp-for="fromPrice">To Price:</label>
+        <input class="form-control" id="toPrice" type="number">
+    </div>
+    <button class="btn btn-block btn-outline-secondary" onclick="SearchProduct()"><i class="fa fa-search"></i>Search</button>
+
+
+
+    <script>
+
+
+        //function ProductSearch() {
+        //    var str = document.getElementById("searchProduct").value
+        //       AJX.post("/Catalog/searchproduct", { searchproduct: str }, function () {
+         
+        //       })
+        //}
+
+
+        function ProductSearch() {
+            //var str = document.getElementById("searchProduct").value
+
+            // AJX.post("/Catalog/searchproduct", { searchproduct: str }, function () {
+
+            // })
+
+            $.ajax({
+                url: "/Catalog/ProductSearchName",
+                dataType: "text",
+                type: "Get",
+                data: {
+                      
+                    searchProduct: $('#searchProduct').val()
+                }
+                ,
+                success: function (data, status, jqxhr) {
+                    $("#divProduct").html(data);
+                },
+                error: function (jqxhr,status) {
+
+                    alert("نشد");
+                },
+                beforeSend: function (jqxhr,setting) {
+
+
+                },
+                complete: function (jqxhr, status) {
+
+
+                }
+
+            });
+
+
+        }
+
+        function SearchProduct() {
+
+            $.ajax({
+                url: "/Catalog/ProdcutCategorySearch",
+                dataType: "text",
+                type: "Get",
+                data: {
+                    categoryName: '@Html.Raw(Model.CategoryName)',
+                    fromPrice: $("#fromPrice").val(),
+                    toPrice: $("#toPrice").val(),
+                    searchProduct: $("#searchProduct").val()
+                }
+                ,
+                success: function (data, status, jqxhr) {
+                    $("#divProduct").html(data);
+                },
+                error: function (jqxhr,status) {
+
+                    alert(status);
+                },
+                beforeSend: function (jqxhr,setting) {
+
+
+                },
+                complete: function (jqxhr, status) {
+
+
+                }
+
+            });
+
+        }
+
+    
+    </script>
+}

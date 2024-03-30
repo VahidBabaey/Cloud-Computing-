@@ -1,0 +1,16 @@
+﻿@model Models.ProductItemModel
+
+<div class="card p-0" style="width:100%;">
+    <img class="card-img-top" src="@Model.Imageurl" alt="@Model.Name" style="height:200px;width:100%;cursor:pointer;" onclick="location.href='/Catalog/@Model.Name'">
+    <div class="card-body">
+        <h5 class="card-title">@Model.Name</h5>
+        <p class="card-text">Price: @Model.Price</p>
+        <p class="card-text">Old Price: <span style="text-decoration-line:line-through; text-decoration-color:red;">@Model.OldPrice</span></p>
+        <p class="card-text">Seller Name: @Model.SellerName</p>
+        <div class="btn-group">
+            <button class="btn btn-sm btn-primary"><i class="fa fa-shopping-cart"></i><span class="d-sm-block d-none">Add</span></button>
+            <button class="btn btn-sm btn-success"><i class="fa fa-plane"></i><span class="d-sm-block d-none">Compare</span></button>
+
+        </div>
+    </div>
+</div>

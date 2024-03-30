@@ -1,0 +1,28 @@
+﻿@model Shop.Areas.Admin.Models.CustomerActivateModel
+@{
+    Layout = "~/Views/Shared/_ColumnOne.cshtml";
+}
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-2 col-0"></div>
+            <div class="col-sm-8 col-12">
+
+                <form  method="post" asp-action="Activate" asp-area="Admin" asp-controller="Account">
+
+                    <div asp-validation-summary="All"></div>
+
+                    @*<input asp-for="ActivateCode" type="hidden" value="@Url.ActionContext.HttpContext.Request.Query["ReturnUrl"]" />*@
+                    <div class="form-group">
+                        <label asp-for="ActivateCode"></label>
+                        <input class="form-control" asp-for="ActivateCode">
+                        <span class="text-danger" asp-validation-for="ActivateCode"></span>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Confirm</button>
+                </form>
+
+            </div>
+            <div class="col-sm-2 col-0"></div>
+        </div>
+
+    </div>

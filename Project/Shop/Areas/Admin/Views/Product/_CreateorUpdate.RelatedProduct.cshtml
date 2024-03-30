@@ -1,0 +1,56 @@
+﻿@model Models.ProductModel
+
+
+<br />
+<button class="btn btn-dark mb-3" type="button" onclick="ShowSelectionProduct()">انتخاب محصول</button>
+
+<div id="RelatedProducts" class="list-group mt-3">
+  
+</div>
+
+<div id="DivProductListSelection" style="display:none">
+    @await Component.InvokeAsync("ProductList")
+
+</div>
+<script>
+    var _managerList = new ProductListManager();
+    var IDS = [];
+    function ShowSelectionProduct() {
+
+           OPenModal(DivProductListSelection, { title: 'Select the Product from the list.', applyEvent: Register, eventLoad: LoadProduct });
+
+    }
+
+    function Register() {
+
+        AJX.post("/Admin/Product/SaveRelatedProducts", { ID:@Model.ID,IDS: _managerList.getSeletedProductsId().join(";") }, function () {
+            GetRealtedProduct();
+            alert("Done");
+
+        });
+    }
+
+    function LoadProduct() {
+        _managerList.setSeletedProductsId(IDS);
+    }
+
+
+    function GetRealtedProduct() {
+
+        AJX.get("/Admin/Product/GetRelatedProducts", { ID:@Model.ID}, function (_list) { 
+
+            var str = "";
+            IDS = [];
+            for (var i in _list) {
+                IDS.push(_list[i].id.toString());
+                str += '<a href="#" class="list-group-item list-group-item-action" data-id="' + _list[i].id+'">' + _list[i].name + '</a>';
+            }
+
+            document.getElementById("RelatedProducts").innerHTML = str;
+        });
+
+    }
+
+
+    GetRealtedProduct();
+</script>

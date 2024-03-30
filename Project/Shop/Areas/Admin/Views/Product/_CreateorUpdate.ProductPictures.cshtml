@@ -1,0 +1,49 @@
+﻿@model Models.ProductModel
+
+<div class="m-3">
+    @Html.Partial("~/Areas/Admin/Views/Picture/Index.cshtml", "ProductPicture")
+</div>
+<div class="form-group">
+    <label for="order">Picture Order:</label>
+    <input type="number" class="form-control col-sm-3" id="order">
+    
+</div>
+<button onclick="SavePicture()" type="button" class="btn btn-success"><i class="fa fa-save m-1"></i>Save</button>
+<ul class="list-group m-3" id="pictureList">
+
+</ul>
+<script>
+    function SavePicture() {
+
+        var picid = document.getElementById("ProductPicture").value;
+        var order = document.getElementById("order").value;
+
+        if (picid == null || picid.trim() == "") {
+            alert("Select a picture");
+            return;
+        }
+
+        var sendData = { productId:@Model.ID,pictureId: picid, order: order };
+        AJX.post("/Admin/Product/SavePicture", sendData, function () {
+            GetPictures();
+            alert("Information was recorded");
+
+         });
+
+    }
+
+    function GetPictures() {
+        var sendData = { productId:@Model.ID };
+        AJX.get("/Admin/Product/GetPictures", sendData, function (_list) {
+            var str = "";
+            for (var i in _list) {
+                str += '<li class="list-group-item"  data-id="' + _list[i].id + '">';
+                str += '<img style="width:60px;height:60px;" src="' + '/Pictures/' + _list[i].pictureId + '.jpg">';
+                str += '<p>Display order: ' + _list[i].order+'</p>';
+                str += "</li>";
+            }
+            document.getElementById("pictureList").innerHTML=str;
+        });
+    }
+    GetPictures();
+</script>

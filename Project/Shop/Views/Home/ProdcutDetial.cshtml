@@ -1,0 +1,72 @@
+﻿@model Models.ProductDetialModel
+@{
+    Layout = "~/Views/Shared/_ColumnOne.cshtml";
+}
+
+<div class="container-fluid p-4">
+    <div class="row">
+        <div class="col-sm-3">
+            <img id="imgMainPic" class="card-img-top" src="@Model.Imageurl" alt="@Model.Name" style="height:300px;width:100%;cursor:pointer;" onclick="location.href='/Catalog/@Model.Name'">
+        </div>
+        <div class="col-sm-8">
+            <div class="row">
+                <div class="card p-0" style="width:100%;">
+
+                    <div class="card-body">
+                        <h5 class="card-title">@Model.Name</h5>
+
+                        <p class="card-text">Price: @Model.Price</p>
+                        <p class="card-text">Old Price: <span style="text-decoration-line:line-through">@Model.OldPrice</span></p>
+                        <div class="btn-group">
+                            <button class="btn btn-sm btn-primary"><i class="fa fa-shopping-cart"></i><span class="d-sm-block d-none">Add</span></button>
+                            <button class="btn btn-sm btn-success"><i class="fa fa-plane"></i><span class="d-sm-block d-none">Compare</span></button>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <hr />
+            <h4>Product Picture</h4>
+            <div class="row">
+                @foreach (var picture in Model.ImageUrls)
+                {
+                    <div class="col-2 border">
+                        <img class="card-img-top" src="@picture" alt="@Model.Name" style="height:100px;width:100%;cursor:pointer;" onclick="ChangePicture(this)">
+
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    function ChangePicture(pic) {
+
+        $("#imgMainPic").fadeOut(100, function () {
+            $(this).attr("src", pic.src);
+
+        }).fadeIn();
+    }
+</script>
+
+
+@if (Model.RelatedProdcuts.Count != 0)
+{
+    <div class="container-fluid p-4">
+        <h4>Related Product</h4>
+        <hr />
+        <div class="row">
+            @foreach (var product in Model.RelatedProdcuts)
+            {
+                <div class="col-sm-3 p-1">
+                    @Html.Partial("_PictureBox", product)
+                </div>
+            }
+        </div>
+
+    </div>
+}
+else
+{
+    <h4>وجود ندارد</h4>
+}

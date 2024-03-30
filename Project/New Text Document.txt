@@ -1,0 +1,43 @@
+Create Core Project:
+
+cmd==> dotnet new webapp -o aspnetcoreapp
+
+
+
+Dll watch:
+
+	  <ItemGroup>
+             <PackageReference Include="Microsoft.AspNetCore.All" Version="2.2.8" />
+             <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.1" />
+          </ItemGroup>
+
+          <ItemGroup>
+             <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.4" />
+             <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.3" />
+          </ItemGroup>
+
+         <ItemGroup>
+             <DotNetCliToolReference Include="Microsoft.DotNet.Watcher.Tools" Version="2.0.2" />
+         </ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="2.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="2.1.4" />
+-----------------------------------------------------------------------------------------------------------------------------
+Watch:
+	dotnet watch run
+-----------------------------------------------------------------------------------------------------------------------------
+installing sqlserver packages:
+				dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version 3.1.2
+-----------------------------------------------------------------------------------------------------------------------------
+Migrate:
+	dotnet ef Migrations Add [Name]
+
+	dotnet ef Database update
+if there is error:
+	dotnet tool install --global dotnet-ef
+-----------------------------------------------------------------------------------------------------------------------------
+Add TagHelper:
+	add _Viewlmports.cshtml in Views
+	add @addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+-----------------------------------------------------------------------------------------------------------------------------
+Temporary Certificate:
+	dotnet dev-certs https --trust

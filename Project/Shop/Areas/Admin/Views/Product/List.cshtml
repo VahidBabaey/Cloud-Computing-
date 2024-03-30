@@ -1,0 +1,156 @@
+﻿@model Models.ProductListModel
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_layout.cshtml";
+    ViewBag.Title = "لیست کالا";
+}
+
+<div id="DivListProducts">
+    <caption-view asp-title="Product List "></caption-view>
+    <form class="form-inline" asp-controller="Product" asp-action="List" method="get">
+        <label asp-for="SearchName"></label>
+        <input class="form-control" asp-for="SearchName">
+        <label asp-for="SearchSeller"></label>
+        <input class="form-control" asp-for="SearchSeller">
+        <label asp-for="CategoryId"></label>
+        <select class="form-control" asp-items="@Model.Categories" asp-for="CategoryId"></select>
+        <button type="button" onclick="ShowProducts()" class="btn btn-primary">Search</button>
+    </form>
+    <div style="text-align:left">
+        <a class="btn-link" asp-controller="Product" asp-action="Create">New Add</a>
+    </div>
+    <br />
+    <table class="table text-center table-bordered table-hover">
+        <thead>
+            <tr>
+                <td>Title</td>
+                <td>Category</td>
+                <td>Price</td>
+                <td>Old Price</td>
+                <td>Published</td>
+                <td>Publish Date</td>
+                <td>SKU</td>
+                <td>Seller Name</td>
+                <td>Edit</td>
+                <td>Delete</td>
+
+            </tr>
+        </thead>
+        <tbody id="tableProducts">
+            @*@foreach (var item in Model.Products)
+            {
+                <tr data-id="@item.ID">
+                    <td>@item.Name</td>
+                    <td>@item.CategoryName</td>
+                    <td class="price">@item.Price</td>
+                    <td>@item.OldPrice</td>
+                    <td><input asp-for="@item.Published"></td>
+                    <td>@item.PublishDate</td>
+                    <td>@item.Sku</td>
+                    <td><a class="btn-link" asp-controller="Product" asp-action="Create" asp-route-id="@item.ID">ویرایش</a></td>
+                    <td><a class="btn-link" onclick="Remove(@item.ID)" href="#">حذف</a></td>
+
+
+
+                </tr>
+            }*@
+        </tbody>
+    </table>
+  
+    <button type="button" class="btn btn-info" onclick="SelectExpensiveProducts()"> Select expensive Product</button>
+    <input type="number" id="txtPrice" />
+</div>
+<form id="formProductRemove" asp-action="Remove" asp-controller="Product" method="post">
+    <input type="hidden" name="id" id="id" value="0"/>
+</form>
+
+@section ViewScript
+    {
+<script>
+
+        function Remove(id) {
+            if (!confirm("Are you sure?"))
+                return;
+            AJX.post("Remove", { "id": id }, function (data) { 
+                ShowProducts();
+
+            });
+            //document.getElementById("id").value = id;
+            //formProductRemove.submit();
+
+        }
+
+        window.onload = load;
+        function load() {
+            ShowProducts();
+            
+        }
+        function ShowProducts() {
+
+          
+
+            AJX.get("../Product/GetProducts", { "SearchName": SearchName.value, "SearchSeller": SearchSeller.value, "CategoryId": CategoryId.value }, function (_list) {
+                var str = "";
+                for (var i in _list) {
+                    str += '<tr data-id="' + _list[i].id + '">';
+                    str += '<td>' + _list[i]["name"] + '</td>';
+                    str += '<td>' + _list[i].categoryName + '</td>';
+                    str += '<td class="price">' + _list[i].price + '</td>';
+                    str += '<td>' + _list[i].oldPrice + '</td>';
+                    if (_list[i].published)
+                        str += '<td>Published</td>';
+                    else
+                        str += '<td>Non-Published </td>';
+
+                    str += '<td>' + _list[i].publishDate + '</td>';
+                    str += '<td>' + _list[i].sku + '</td>';
+                    str += '<td>' + _list[i].sellerName + '</td>';
+                    str += ' <td><a class="btn-link" href="/Admin/Product/Create/' + _list[i].id + '">Edit</a></td>';
+                    str += ' <td><a class="btn-link" href="#"  onclick=Remove(' + _list[i].id + ') ">Delete</a></td>';
+
+                    str += '</tr>';
+                }
+
+                document.getElementById("tableProducts").innerHTML = str;
+                AssingEventToTr();
+
+
+             },"json");
+            
+            
+        }
+
+        function AssingEventToTr() {
+            var _listtr = document.querySelectorAll("#DivListProducts table tbody tr");
+            for (var i = 0; i < _listtr.length; i++) {
+
+                _listtr[i].addEventListener("dblclick", function () {
+                    var id = this.getAttribute("data-id");
+                    OpenWindow("/Product/Detail/" + id);
+                });
+
+            }
+
+
+        }
+        function SelectExpensiveProducts() {
+
+            var _listtd = document.querySelectorAll("#DivListProducts table tbody tr td.price");
+
+            if (isNaN(txtPrice.value)) {
+                alert("Enter the Number");
+                return;
+
+            }
+            var _Minprice = txtPrice.value == "" ? 0 : parseInt(txtPrice.value.trim());
+
+            for (var i = 0; i < _listtd.length; i++) {
+                var parent = _listtd[i].parentNode;
+                parent.className = "";
+                var _price = parseInt(_listtd[i].innerHTML);
+                if (_price > _Minprice)
+                    parent.className = "bg-info";
+            }
+        }
+</script>
+
+}

@@ -1,0 +1,745 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\projects\\web3Cloud\\Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\shared\\components\\header\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\utility\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:utility\\errorhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\shared\\components\\adminmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\shared\\components\\adminmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\shared\\_layout.head.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.head.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\shared\\components\\productlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\shared\\components\\productlist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\product\\_createorupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\product\\_createorupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\account\\forget.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\account\\forget.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\account\\activate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\account\\activate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\components\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:components\\header.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\product\\_createorupdate.tabinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\product\\_createorupdate.tabinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\product\\_createorupdate.relatedproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\product\\_createorupdate.relatedproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\product\\_createorupdate.productpictures.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\product\\_createorupdate.productpictures.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\areas\\admin\\views\\customer\\manageroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:areas\\admin\\views\\customer\\manageroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\catalog\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\catalog\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\shared\\components\\topmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\shared\\components\\topmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\shared\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\shared\\_columntwo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\shared\\_columntwo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\shared\\_columnone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\shared\\_columnone.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\home\\productlist1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\home\\productlist1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\home\\prodcutdetial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\home\\prodcutdetial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\home\\_picturebox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\home\\_picturebox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\error\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\error\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\error\\generalerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\error\\generalerror.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\catalog\\_picturebox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\catalog\\_picturebox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\catalog\\prodcutcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\catalog\\prodcutcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\catalog\\prodcutcategorysearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\catalog\\prodcutcategorysearch.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\catalog\\prodcutdetial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\catalog\\prodcutdetial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\catalog\\productlist1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\catalog\\productlist1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\views\\catalog\\productsearchname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:views\\catalog\\productsearchname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|d:\\projects\\web3cloud\\shop\\utility\\myidentitydatainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EDE36FE-D46A-4056-8F0A-C9474F487575}|Shop.csproj|solutionrelative:utility\\myidentitydatainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorHandler.cs",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Utility\\ErrorHandler.cs",
+              "RelativeDocumentMoniker": "Utility\\ErrorHandler.cs",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Utility\\ErrorHandler.cs",
+              "RelativeToolTip": "Utility\\ErrorHandler.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAABsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T18:25:31.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Shared\\Components\\AdminMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\Components\\AdminMenu\\Default.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Shared\\Components\\AdminMenu\\Default.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\Components\\AdminMenu\\Default.cshtml",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAiwFEAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T01:02:55.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Shared\\Components\\ProductList\\Default.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\Components\\ProductList\\Default.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Shared\\Components\\ProductList\\Default.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\Components\\ProductList\\Default.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAADoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T01:05:26.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_layout.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Shared\\_layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_layout.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Shared\\_layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAA4AAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T01:06:40.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_layout.Head.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Shared\\_layout.Head.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_layout.Head.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Shared\\_layout.Head.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_layout.Head.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T01:06:55.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T01:06:58.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Shared\\Components\\Header\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Header\\Default.cshtml",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAiwEwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:18:28.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_CreateorUpdate.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Product\\_CreateorUpdate.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\_CreateorUpdate.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Product\\_CreateorUpdate.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\_CreateorUpdate.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:59:10.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAiwGYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:07:25.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T18:19:55.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T18:19:54.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Category\\List.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\List.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Category\\List.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T18:19:43.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T18:19:34.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T18:19:23.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Forget.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Account\\Forget.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Account\\Forget.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Account\\Forget.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Account\\Forget.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T18:19:20.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Activate.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Account\\Activate.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Account\\Activate.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Account\\Activate.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Account\\Activate.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-28T18:19:13.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Header.cs",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Components\\Header.cs",
+              "RelativeDocumentMoniker": "Components\\Header.cs",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Components\\Header.cs",
+              "RelativeToolTip": "Components\\Header.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T01:07:02.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_CreateorUpdate.RelatedProduct.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Product\\_CreateorUpdate.RelatedProduct.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\_CreateorUpdate.RelatedProduct.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Product\\_CreateorUpdate.RelatedProduct.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\_CreateorUpdate.RelatedProduct.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:59:03.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_CreateorUpdate.TabInfo.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Product\\_CreateorUpdate.TabInfo.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\_CreateorUpdate.TabInfo.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Product\\_CreateorUpdate.TabInfo.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\_CreateorUpdate.TabInfo.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:59:01.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:58:57.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:58:55.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\List.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\List.cshtml",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAswIsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:58:52.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_CreateorUpdate.ProductPictures.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Product\\_CreateorUpdate.ProductPictures.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Product\\_CreateorUpdate.ProductPictures.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Product\\_CreateorUpdate.ProductPictures.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Product\\_CreateorUpdate.ProductPictures.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:59:07.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ManageRoles.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Customer\\ManageRoles.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Customer\\ManageRoles.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Areas\\Admin\\Views\\Customer\\ManageRoles.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Customer\\ManageRoles.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:58:44.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ViewImports.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Shared\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:18:25.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:18:24.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_layout.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Shared\\_layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_layout.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Shared\\_layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:18:18.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ColumnTwo.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Shared\\_ColumnTwo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ColumnTwo.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Shared\\_ColumnTwo.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ColumnTwo.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:18:17.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ColumnOne.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Shared\\_ColumnOne.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ColumnOne.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Shared\\_ColumnOne.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ColumnOne.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:18:14.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Catalog\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "Views\\Catalog\\ProductList.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Catalog\\ProductList.cshtml",
+              "RelativeToolTip": "Views\\Catalog\\ProductList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:11:41.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Shared\\Components\\TopMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\TopMenu\\Default.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Shared\\Components\\TopMenu\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\TopMenu\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:21:18.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductList1.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Home\\ProductList1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ProductList1.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Home\\ProductList1.cshtml",
+              "RelativeToolTip": "Views\\Home\\ProductList1.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAACEAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:17:40.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProdcutDetial.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Home\\ProdcutDetial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\ProdcutDetial.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Home\\ProdcutDetial.cshtml",
+              "RelativeToolTip": "Views\\Home\\ProdcutDetial.cshtml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAADgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:16:58.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:16:52.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_PictureBox.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Home\\_PictureBox.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\_PictureBox.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Home\\_PictureBox.cshtml",
+              "RelativeToolTip": "Views\\Home\\_PictureBox.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:16:19.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Lockout.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Error\\Lockout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Error\\Lockout.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Error\\Lockout.cshtml",
+              "RelativeToolTip": "Views\\Error\\Lockout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:15:35.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Generalerror.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Error\\Generalerror.cshtml",
+              "RelativeDocumentMoniker": "Views\\Error\\Generalerror.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Error\\Generalerror.cshtml",
+              "RelativeToolTip": "Views\\Error\\Generalerror.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:14:24.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_PictureBox.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Catalog\\_PictureBox.cshtml",
+              "RelativeDocumentMoniker": "Views\\Catalog\\_PictureBox.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Catalog\\_PictureBox.cshtml",
+              "RelativeToolTip": "Views\\Catalog\\_PictureBox.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:13:58.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProdcutCategory.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Catalog\\ProdcutCategory.cshtml",
+              "RelativeDocumentMoniker": "Views\\Catalog\\ProdcutCategory.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Catalog\\ProdcutCategory.cshtml",
+              "RelativeToolTip": "Views\\Catalog\\ProdcutCategory.cshtml",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:13:24.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ProdcutCategorySearch.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Catalog\\ProdcutCategorySearch.cshtml",
+              "RelativeDocumentMoniker": "Views\\Catalog\\ProdcutCategorySearch.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Catalog\\ProdcutCategorySearch.cshtml",
+              "RelativeToolTip": "Views\\Catalog\\ProdcutCategorySearch.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:13:19.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProdcutDetial.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Catalog\\ProdcutDetial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Catalog\\ProdcutDetial.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Catalog\\ProdcutDetial.cshtml",
+              "RelativeToolTip": "Views\\Catalog\\ProdcutDetial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:12:18.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductList1.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Catalog\\ProductList1.cshtml",
+              "RelativeDocumentMoniker": "Views\\Catalog\\ProductList1.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Catalog\\ProductList1.cshtml",
+              "RelativeToolTip": "Views\\Catalog\\ProductList1.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAACEAAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:11:03.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductSearchName.cshtml",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Views\\Catalog\\ProductSearchName.cshtml",
+              "RelativeDocumentMoniker": "Views\\Catalog\\ProductSearchName.cshtml",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Views\\Catalog\\ProductSearchName.cshtml",
+              "RelativeToolTip": "Views\\Catalog\\ProductSearchName.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T00:10:41.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "MyIdentityDataInitializer.cs",
+              "DocumentMoniker": "D:\\projects\\web3Cloud\\Shop\\Utility\\MyIdentityDataInitializer.cs",
+              "RelativeDocumentMoniker": "Utility\\MyIdentityDataInitializer.cs",
+              "ToolTip": "D:\\projects\\web3Cloud\\Shop\\Utility\\MyIdentityDataInitializer.cs",
+              "RelativeToolTip": "Utility\\MyIdentityDataInitializer.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAcwEkAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T00:07:38.942Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

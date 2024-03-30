@@ -1,0 +1,17 @@
+﻿@model Models.ProductCategoryModel
+
+
+<div class="container-fluid p-4">
+    <h4>Products @Model.CategoryName</h4>
+    <hr />
+    <div class="row">
+        @foreach (var product in Model.Prodcuts)
+        {
+            <div class="col-sm-3 p-1">
+                @Html.Partial("_PictureBox", product)
+            </div>
+        }
+    </div>
+
+</div>
+

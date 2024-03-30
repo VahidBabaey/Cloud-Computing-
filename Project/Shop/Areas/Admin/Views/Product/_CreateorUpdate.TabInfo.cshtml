@@ -1,0 +1,48 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@model Models.ProductModel
+@inject UserManager<Domains.Customer> userManager
+
+<div class="form-group">
+    <label asp-for="Name"></label>
+    <input class="form-control" asp-for="Name">
+    <span class="text-danger" asp-validation-for="Name"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Sku"></label>
+    <input class="form-control" asp-for="Sku">
+    <span class="text-danger" asp-validation-for="Sku"></span>
+</div>
+<div class="form-group">
+    <label asp-for="Price"></label>
+    <input class="form-control" asp-for="Price">
+    <span class="text-danger" asp-validation-for="Price"></span>
+</div>
+
+<div class="form-group">
+    <label asp-for="OldPrice"></label>
+    <input class="form-control" asp-for="OldPrice">
+    <span class="text-danger" asp-validation-for="OldPrice"></span>
+</div>
+<div>
+    <label asp-for="CategoryID"></label>
+    <select class="form-control" asp-items="@Model.Categories" asp-for="CategoryID"></select>
+    <span class="text-danger" asp-validation-for="CategoryID"></span>
+</div>
+<div class="form-group">
+    <label asp-for="SellerID"></label>
+    <input type="hidden" value="@userManager.GetUserId(User)" asp-for="SellerID" />
+    <input class="form-control" value="@userManager.GetUserName(User)" asp-for="SellerName">
+    <span class="text-danger" asp-validation-for="SellerID"></span>
+</div>
+
+<div class="form-group">
+    <label asp-for="Published"></label>
+    <input class="form-control" asp-for="Published">
+    <span class="text-danger" asp-validation-for="Published"></span>
+</div>
+<div class="form-group">
+    <label asp-for="PublishDate"></label>
+    <persian-date asp-for="PublishDate"></persian-date>
+    <span class="text-danger" asp-validation-for="PublishDate"></span>
+</div>
+

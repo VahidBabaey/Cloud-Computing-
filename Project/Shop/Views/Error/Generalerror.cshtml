@@ -1,0 +1,26 @@
+﻿@model int?
+@{ 
+    var ErrorMessage = " Error - Please Call Support Team";
+    if (Model == 404)
+    {
+        ErrorMessage = " The URL Address is not Valid ";
+    }
+    if (Model == 401 || Model==403)
+    {
+        ErrorMessage = " YOu don't have this permission ";
+    }
+    if (Model >= 500)
+    {
+        ErrorMessage = " Server Error - Please Call Support Team";
+
+    }
+
+}
+
+@{
+    Layout = "~/Views/Shared/_ColumnOne.cshtml";
+
+}
+<div class="jumbotron h4 text-center text-danger">
+  @ErrorMessage
+</div>

@@ -1,0 +1,41 @@
+﻿@model Models.CategoryModel
+@{
+    Layout = "~/Areas/Admin/Views/Shared/_layout.cshtml";
+}
+
+<div>
+    <i class="fa fa-codepen"></i>
+    <span class="h5">Category Management</span>
+    <hr />
+    
+       @Html.AntiForgeryToken()
+        <div asp-validation-summary="All"></div>
+        <input type="hidden" asp-for="ID" />
+        <div class="form-group">
+            <label asp-for="Name"></label>
+            <input class="form-control" asp-for="Name">
+            <span class="text-danger" asp-validation-for="Name"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="Description"></label>
+            <textarea class="form-control" asp-for="Description"></textarea>
+            <span class="text-danger" asp-validation-for="Description"></span>
+
+        </div>
+        <button type="button" onclick="RegisterCategory()" class="btn btn-primary">Add</button>
+
+    
+</div>
+@section ViewScript
+    {
+    <script>
+        function RegisterCategory() {
+
+            var v = document.getElementsByName("__RequestVerificationToken")[0].value;
+            AJX.post("/Admin/Category/Create", { ID: ID.value, Description: Description.value, Name: Name.value, __RequestVerificationToken: v }, function () {
+                alert("Information was recorded");
+                location.href="/Admin/Category/Index"
+            });
+        }
+    </script>
+}

@@ -1,0 +1,76 @@
+﻿@model Models.ProductCategoryModel
+
+@{
+    Layout = "~/Views/Shared/_ColumnTwo.cshtml";
+}
+
+<div class="container-fluid p-4">
+    <div id="divProduct">
+        <h4>Movies</h4>
+        <hr />
+        <div class="row">
+            @foreach (var product in Model.Prodcuts)
+            {
+                <div class="col-sm-3 p-1">
+                    @Html.Partial("_PictureBox", product)
+                </div>
+            }
+        </div>
+        </div>
+
+    </div>
+
+@section left
+    {
+
+    <div class="form-group">
+        <label asp-for="fromPrice">From price:</label>
+        <input class="form-control" id="fromPrice" type="number">
+    </div>
+    <div class="form-group">
+        <label asp-for="fromPrice">To price:</label>
+        <input class="form-control" id="toPrice" type="number">
+    </div>
+    <button class="btn btn-block btn-outline-secondary" onclick="SearchProduct()"><i class="fa fa-search"></i>Search</button>
+
+
+
+    <script>
+
+        function SearchProduct() {
+
+            $.ajax({
+                url: "/Catalog/ProdcutCategorySearch",
+                dataType: "text",
+                type: "Get",
+                data: {
+                   
+                    fromPrice: $("#fromPrice").val(),
+                    toPrice: $("#toPrice").val(),
+                
+                }
+                ,
+                success: function (data, status, jqxhr) {
+                    $("#divProduct").html(data);
+                },
+                error: function (jqxhr,status) {
+
+                    alert(status);
+                },
+                beforeSend: function (jqxhr,setting) {
+
+
+                },
+                complete: function (jqxhr, status) {
+
+
+                }
+
+            });
+
+        }
+
+
+    </script>
+}
+

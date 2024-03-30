@@ -1,0 +1,673 @@
+E:\وب\GW15\Session 2\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\وب\GW15\Session 2\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\وب\GW15\Session 2\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\وب\GW15\Session 2\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 2\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 2\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+E:\وب\GW15\Session 2\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\وب\GW15\Session 2\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\وب\GW15\Session 2\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 2\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 2\Shop\obj\Debug\netcoreapp2.1\Shop.csprojAssemblyReference.cache
+E:\وب\GW15\Session 3\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\وب\GW15\Session 3\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\وب\GW15\Session 3\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\وب\GW15\Session 3\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 3\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 3\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+E:\وب\GW15\Session 3\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\وب\GW15\Session 3\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\وب\GW15\Session 3\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 3\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 3\Shop\obj\Debug\netcoreapp2.1\Shop.csprojResolveAssemblyReference.cache
+E:\وب\GW15\Session 4\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\وب\GW15\Session 4\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\وب\GW15\Session 4\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\وب\GW15\Session 4\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 4\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 4\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+E:\وب\GW15\Session 4\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\وب\GW15\Session 4\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\وب\GW15\Session 4\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 4\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 5\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+E:\وب\GW15\Session 5\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\وب\GW15\Session 5\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\وب\GW15\Session 5\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 5\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 5\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\وب\GW15\Session 5\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\وب\GW15\Session 5\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\وب\GW15\Session 5\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 5\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 5\Shop\obj\Debug\netcoreapp2.1\Shop.csprojAssemblyReference.cache
+E:\وب\GW15\Session 6\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\وب\GW15\Session 6\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\وب\GW15\Session 6\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\وب\GW15\Session 6\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 6\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 6\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+E:\وب\GW15\Session 6\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\وب\GW15\Session 6\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\وب\GW15\Session 6\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 6\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 6\Shop\obj\Debug\netcoreapp2.1\Shop.csprojResolveAssemblyReference.cache
+E:\وب\GW15\Session 7\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\وب\GW15\Session 7\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\وب\GW15\Session 7\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\وب\GW15\Session 7\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 7\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 7\Shop\obj\Debug\netcoreapp2.1\Shop.csprojResolveAssemblyReference.cache
+E:\وب\GW15\Session 7\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+E:\وب\GW15\Session 7\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\وب\GW15\Session 7\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\وب\GW15\Session 7\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 7\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 8\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\وب\GW15\Session 8\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\وب\GW15\Session 8\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\وب\GW15\Session 8\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 8\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 8\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+E:\وب\GW15\Session 8\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\وب\GW15\Session 8\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\وب\GW15\Session 8\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 8\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 8\Shop\obj\Debug\netcoreapp2.1\Shop.csprojResolveAssemblyReference.cache
+E:\وب\GW15\Session 9\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\وب\GW15\Session 9\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\وب\GW15\Session 9\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\وب\GW15\Session 9\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 9\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 9\Shop\obj\Debug\netcoreapp2.1\Shop.csprojResolveAssemblyReference.cache
+E:\وب\GW15\Session 9\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+E:\وب\GW15\Session 9\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\وب\GW15\Session 9\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\وب\GW15\Session 9\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 9\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 10\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\وب\GW15\Session 10\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\وب\GW15\Session 10\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\وب\GW15\Session 10\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 10\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 10\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+E:\وب\GW15\Session 10\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\وب\GW15\Session 10\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\وب\GW15\Session 10\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 10\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 10\Shop\obj\Debug\netcoreapp2.1\Shop.csprojResolveAssemblyReference.cache
+E:\وب\GW15\Session 11\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\وب\GW15\Session 11\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\وب\GW15\Session 11\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\وب\GW15\Session 11\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 11\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 11\Shop\obj\Debug\netcoreapp2.1\Shop.csprojResolveAssemblyReference.cache
+E:\وب\GW15\Session 11\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+E:\وب\GW15\Session 11\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\وب\GW15\Session 11\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\وب\GW15\Session 11\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 11\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 12\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\وب\GW15\Session 12\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\وب\GW15\Session 12\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\وب\GW15\Session 12\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 12\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 12\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+E:\وب\GW15\Session 12\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\وب\GW15\Session 12\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\وب\GW15\Session 12\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 12\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 12\Shop\obj\Debug\netcoreapp2.1\Shop.csprojResolveAssemblyReference.cache
+E:\وب\GW15\Session 13\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\وب\GW15\Session 13\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\وب\GW15\Session 13\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\وب\GW15\Session 13\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 13\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 13\Shop\bin\Debug\netcoreapp2.1\Shop.Views.dll
+E:\وب\GW15\Session 13\Shop\bin\Debug\netcoreapp2.1\Shop.Views.pdb
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cache
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.input.cache
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.output.cache
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.RazorCoreGenerate.cache
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\Create.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\List.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\About.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Picture\Index.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Create.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Detail.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\List.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.ProductPictures.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.RelatedProduct.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.TabInfo.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\AdminMenu\Default.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\ProductList\Default.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.Head.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutCategory.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutDetial.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\_PictureBox.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Generalerror.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Header\Default.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\TopMenu\Default.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnOne.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnTwo.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cache
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.Views.pdb
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CopyComplete
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Register.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.csprojResolveAssemblyReference.cache
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Login.g.cshtml.cs
+E:\وب\GW15\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Lockout.g.cshtml.cs
+E:\وب\Session 13\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\وب\Session 13\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\وب\Session 13\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\وب\Session 13\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\وب\Session 13\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\Session 13\Shop\bin\Debug\netcoreapp2.1\Shop.Views.dll
+E:\وب\Session 13\Shop\bin\Debug\netcoreapp2.1\Shop.Views.pdb
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.csprojAssemblyReference.cache
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cache
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.input.cache
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.output.cache
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.RazorCoreGenerate.cache
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Login.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Register.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\Create.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\List.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\About.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Picture\Index.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Create.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Detail.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\List.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.ProductPictures.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.RelatedProduct.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.TabInfo.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\AdminMenu\Default.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\ProductList\Default.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.Head.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutCategory.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutDetial.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\_PictureBox.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Generalerror.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Lockout.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Header\Default.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\TopMenu\Default.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnOne.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnTwo.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout.g.cshtml.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cache
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cs
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.Views.pdb
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\وب\Session 13\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CopyComplete
+E:\برنامه نویسی وب\Session 15\Shop\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\برنامه نویسی وب\Session 15\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\برنامه نویسی وب\Session 15\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\برنامه نویسی وب\Session 15\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\برنامه نویسی وب\Session 15\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\برنامه نویسی وب\Session 15\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\برنامه نویسی وب\Session 15\Shop\bin\Debug\netcoreapp2.1\Shop.Views.dll
+E:\برنامه نویسی وب\Session 15\Shop\bin\Debug\netcoreapp2.1\Shop.Views.pdb
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Shop.csprojAssemblyReference.cache
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cache
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.input.cache
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.output.cache
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Shop.RazorCoreGenerate.cache
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Login.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Register.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\List.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\About.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Picture\Index.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Detail.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\List.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.ProductPictures.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.RelatedProduct.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.TabInfo.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\AdminMenu\Default.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\ProductList\Default.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.Head.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutCategory.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutDetial.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\_PictureBox.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Generalerror.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Lockout.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\TopMenu\Default.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnOne.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnTwo.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout.cshtml.g.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cache
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cs
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Shop.Views.pdb
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\برنامه نویسی وب\Session 15\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CopyComplete
+E:\project\wwweeebbb\Shop\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\project\wwweeebbb\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\project\wwweeebbb\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\project\wwweeebbb\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\project\wwweeebbb\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\project\wwweeebbb\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\project\wwweeebbb\Shop\bin\Debug\netcoreapp2.1\Shop.Views.dll
+E:\project\wwweeebbb\Shop\bin\Debug\netcoreapp2.1\Shop.Views.pdb
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Shop.csprojAssemblyReference.cache
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cache
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.input.cache
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.output.cache
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Shop.RazorCoreGenerate.cache
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Login.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Register.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\List.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\About.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Picture\Index.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Detail.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\List.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.ProductPictures.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.RelatedProduct.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.TabInfo.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\AdminMenu\Default.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\ProductList\Default.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.Head.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutCategory.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutDetial.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\_PictureBox.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Generalerror.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Lockout.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\TopMenu\Default.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnOne.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnTwo.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cache
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Shop.Views.pdb
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CopyComplete
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Customer\List.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Customer\ManageRoles.cshtml.g.cs
+E:\project\wwweeebbb\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutCategorySearch.cshtml.g.cs
+E:\project\web1\Shop\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\project\web1\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\project\web1\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\project\web1\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\project\web1\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\project\web1\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\project\web1\Shop\bin\Debug\netcoreapp2.1\Shop.Views.dll
+E:\project\web1\Shop\bin\Debug\netcoreapp2.1\Shop.Views.pdb
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Shop.csprojAssemblyReference.cache
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cache
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.input.cache
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.output.cache
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Shop.RazorCoreGenerate.cache
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Login.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Register.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\List.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Customer\List.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Customer\ManageRoles.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\About.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Picture\Index.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Detail.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\List.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.ProductPictures.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.RelatedProduct.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.TabInfo.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\AdminMenu\Default.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\ProductList\Default.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.Head.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutCategory.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutCategorySearch.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutDetial.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\_PictureBox.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Generalerror.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Lockout.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\TopMenu\Default.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnOne.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnTwo.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cache
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Shop.Views.pdb
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CopyComplete
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ViewImports.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProductSearchName.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProductList.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProductList1.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\ProductList1.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\ProdcutDetial.cshtml.g.cs
+E:\project\web1\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\_PictureBox.cshtml.g.cs
+E:\project\web3\Shop\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\project\web3\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\project\web3\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\project\web3\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\project\web3\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\project\web3\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\project\web3\Shop\bin\Debug\netcoreapp2.1\Shop.Views.dll
+E:\project\web3\Shop\bin\Debug\netcoreapp2.1\Shop.Views.pdb
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cache
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.input.cache
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.output.cache
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Shop.RazorCoreGenerate.cache
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Login.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Register.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\List.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Customer\List.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Customer\ManageRoles.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\About.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Picture\Index.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Detail.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\List.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.ProductPictures.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.RelatedProduct.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.TabInfo.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\AdminMenu\Default.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\ProductList\Default.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.Head.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutCategory.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutCategorySearch.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutDetial.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProductList.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProductList1.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProductSearchName.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\_PictureBox.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Generalerror.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Lockout.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\ProdcutDetial.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\ProductList1.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\_PictureBox.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\TopMenu\Default.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnOne.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnTwo.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ViewImports.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cache
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Shop.Views.pdb
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CopyComplete
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Shop.csprojAssemblyReference.cache
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Activate.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Forget.cshtml.g.cs
+E:\project\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Reset.cshtml.g.cs
+E:\projects\web3\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+E:\projects\web3\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+E:\projects\web3\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+E:\projects\web3\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+E:\projects\web3\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+E:\projects\web3\Shop\bin\Debug\netcoreapp2.1\Shop.Views.dll
+E:\projects\web3\Shop\bin\Debug\netcoreapp2.1\Shop.Views.pdb
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cache
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.input.cache
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.output.cache
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.RazorCoreGenerate.cache
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Activate.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Forget.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Login.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Register.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Reset.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\List.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Customer\List.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Customer\ManageRoles.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\About.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Picture\Index.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Detail.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\List.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.ProductPictures.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.RelatedProduct.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.TabInfo.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\AdminMenu\Default.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\ProductList\Default.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.Head.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutCategory.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutCategorySearch.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutDetial.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProductList.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProductList1.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProductSearchName.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\_PictureBox.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Generalerror.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Lockout.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\ProdcutDetial.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\ProductList1.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\_PictureBox.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\TopMenu\Default.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnOne.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnTwo.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ViewImports.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cache
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.Views.pdb
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.genruntimeconfig.cache
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CopyComplete
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\RegisterSeller.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\LoginSeller.cshtml.g.cs
+E:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.csprojAssemblyReference.cache
+D:\projects\web3\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+D:\projects\web3\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+D:\projects\web3\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+D:\projects\web3\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+D:\projects\web3\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+D:\projects\web3\Shop\bin\Debug\netcoreapp2.1\Shop.Views.dll
+D:\projects\web3\Shop\bin\Debug\netcoreapp2.1\Shop.Views.pdb
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.AssemblyReference.cache
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cache
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.input.cache
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.output.cache
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.RazorCoreGenerate.cache
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Activate.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Forget.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Login.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\LoginSeller.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Register.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\RegisterSeller.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Reset.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\List.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Customer\List.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Customer\ManageRoles.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\About.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Picture\Index.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Detail.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\List.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.ProductPictures.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.RelatedProduct.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.TabInfo.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\AdminMenu\Default.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\ProductList\Default.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.Head.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutCategory.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutCategorySearch.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutDetial.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProductList.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProductList1.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProductSearchName.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\_PictureBox.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Generalerror.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Lockout.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\ProdcutDetial.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\ProductList1.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\_PictureBox.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\TopMenu\Default.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnOne.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnTwo.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ViewImports.cshtml.g.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cache
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cs
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.Views.pdb
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.genruntimeconfig.cache
+D:\projects\web3\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.Up2Date
+D:\projects\web3Cloud\Shop\bin\Debug\netcoreapp2.1\Shop.deps.json
+D:\projects\web3Cloud\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.json
+D:\projects\web3Cloud\Shop\bin\Debug\netcoreapp2.1\Shop.runtimeconfig.dev.json
+D:\projects\web3Cloud\Shop\bin\Debug\netcoreapp2.1\Shop.dll
+D:\projects\web3Cloud\Shop\bin\Debug\netcoreapp2.1\Shop.pdb
+D:\projects\web3Cloud\Shop\bin\Debug\netcoreapp2.1\Shop.Views.dll
+D:\projects\web3Cloud\Shop\bin\Debug\netcoreapp2.1\Shop.Views.pdb
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.AssemblyReference.cache
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfoInputs.cache
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.AssemblyInfo.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.CoreCompileInputs.cache
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cache
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.RazorAssemblyInfo.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.input.cache
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.TagHelpers.output.cache
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.RazorCoreGenerate.cache
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Activate.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Forget.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Login.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\LoginSeller.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Register.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\RegisterSeller.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Account\Reset.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\Create.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Category\List.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Customer\List.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Customer\ManageRoles.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\About.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Picture\Index.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\Detail.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\List.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.ProductPictures.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.RelatedProduct.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Product\_CreateorUpdate.TabInfo.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\AdminMenu\Default.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\Components\ProductList\Default.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_layout.Head.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutCategory.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutCategorySearch.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProdcutDetial.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProductList.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProductList1.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\ProductSearchName.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Catalog\_PictureBox.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Generalerror.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Error\Lockout.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\ProdcutDetial.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\ProductList1.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Home\_PictureBox.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\TopMenu\Default.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnOne.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ColumnTwo.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_layout.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ViewImports.cshtml.g.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cache
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.RazorTargetAssemblyInfo.cs
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.Views.pdb
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.dll
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.pdb
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.genruntimeconfig.cache
+D:\projects\web3Cloud\Shop\obj\Debug\netcoreapp2.1\Shop.csproj.Up2Date
